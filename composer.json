@@ -1,10 +1,10 @@
 {
-    "name": "websoft/framework",
-    "description": "The Websoft Framework",
+    "name": "keithchiah/framework",
+    "description": "The PHP Framework",
     "license": "gpl-3.0",
     "authors": [
         {
-            "name": "Websoft",
+            "name": "Keith Chiah",
             "email": "keithchiah@websoft.com.sg"
         }
     ],
