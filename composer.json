@@ -1,0 +1,25 @@
+{
+    "name": "websoft/framework",
+    "description": "The Websoft Framework",
+    "license": "gpl-3.0",
+    "authors": [
+        {
+            "name": "Websoft",
+            "email": "keithchiah@websoft.com.sg"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5"
+    },
+    "autoload": {
+        "files": [
+            "src/Websoft/helpers.php"
+        ],
+        "psr-4": {
+            "Websoft\\": "src/Websoft/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
