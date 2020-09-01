@@ -1,7 +1,7 @@
 <?php
 
-use Websoft\Config;
-use Websoft\Response;
+use Keithsk\Config;
+use Keithsk\Response;
 
 
 if (! function_exists('autoload_app_classes')) {

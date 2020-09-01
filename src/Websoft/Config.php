@@ -1,6 +1,6 @@
 <?php
 
-namespace Websoft;
+namespace Keithsk;
 
 class Config
 {

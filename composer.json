@@ -1,11 +1,11 @@
 {
-    "name": "keithchiah/framework",
+    "name": "keithsk/framework",
     "description": "The PHP Framework",
-    "license": "gpl-3.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Keith Chiah",
-            "email": "keithchiah@websoft.com.sg"
+            "email": "skchiah@gmail.com"
         }
     ],
     "require": {
@@ -13,10 +13,10 @@
     },
     "autoload": {
         "files": [
-            "src/Websoft/helpers.php"
+            "src/Keithsk/helpers.php"
         ],
         "psr-4": {
-            "Websoft\\": "src/Websoft/"
+            "Keithsk\\": "src/Keithsk/"
         }
     },
     "config": {
